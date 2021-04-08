@@ -1,0 +1,13 @@
+/* Add your styles here */
+
+.gridus{
+  padding:40px;
+}
+
+.galaxia{
+  padding:30px;
+}
+
+.container-logo > .img-responsive{
+    margin: 0 auto;
+}
